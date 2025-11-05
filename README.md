@@ -1,20 +1,20 @@
 # Preprocesamiento-ciencia-datos
 Proyecto de preprocesamiento de datos con Python: implementación de técnicas de limpieza, transformación y preparación de datasets para análisis y machine learning
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Status-Active-success.svg)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Actions](https://github.com/Hector-cc12/Preprocesamiento-ciencia-datos/workflows/ci.yml/badge.svg)](https://github.com/Hector-cc12/Preprocesamiento-ciencia-datos/actions)
 
-## Objetivo
+## 💡 Objetivo
 Este proyecto tiene como objetivo implementar técnicas de preprocesamiento de datos utilizando Python, aplicando buenas prácticas de control de versiones con Git y GitHub.
 
-## Funcionalidades
+## 🎯 Funcionalidades
 - Limpieza de datos (valores nulos, duplicados)
 - Normalización y estandarización
 - Codificación de variables categóricas
 - Detección y tratamiento de outliers
 - Feature engineering
 
-## Estructura del Proyecto
+## 🗃️ Estructura del Proyecto
 ```
 preprocesamiento-ciencia-datos/
 │
@@ -41,7 +41,7 @@ preprocesamiento-ciencia-datos/
 └── requirements.txt             # Dependencias
 ```
 
-##  Instalación
+## ⚙️ Instalación
 
 ### Requisitos Previos
 - Python 3.10 o superior
@@ -74,11 +74,11 @@ pip install -r requirements.txt
 
 
 
-##  Reportar Problemas
+##  📩 Reportar Problemas
 
 Si encuentras algún bug o tienes sugerencias, por favor abre un [issue](https://github.com/Hector-cc12/Preprocesamiento-ciencia-datos/issues).
 
-##  Roadmap
+##  🗺️ Roadmap
 
 - [ ] Implementar tests unitarios completos
 - [ ] Agregar soporte para más tipos de archivos (JSON, Parquet)
