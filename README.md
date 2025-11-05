@@ -80,7 +80,7 @@ Si encuentras algún bug o tienes sugerencias, por favor abre un [issue](https:/
 
 ##  Roadmap
 
-- [] Implementar tests unitarios completos
+- [ ] Implementar tests unitarios completos
 - [ ] Agregar soporte para más tipos de archivos (JSON, Parquet)
 - [ ] Crear visualizaciones automáticas de datos
 - [ ] Implementar detección automática de tipos de datos
