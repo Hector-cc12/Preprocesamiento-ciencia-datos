@@ -2,7 +2,7 @@
 Proyecto de preprocesamiento de datos con Python: implementación de técnicas de limpieza, transformación y preparación de datasets para análisis y machine learning
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Actions](https://github.com/Hector-cc12/Preprocesamiento-ciencia-datos/workflows/ci.yml/badge.svg)](https://github.com/Hector-cc12/Preprocesamiento-ciencia-datos/actions)
+![GitHub Actions](https://github.com/Hector-cc12/Preprocesamiento-ciencia-datos/workflows/ci.yml/badge.svg)](https://github.com/Hector-cc12/Preprocesamiento-ciencia-datos/actions)
 
 ## 💡 Objetivo
 Este proyecto tiene como objetivo implementar técnicas de preprocesamiento de datos utilizando Python, aplicando buenas prácticas de control de versiones con Git y GitHub.
