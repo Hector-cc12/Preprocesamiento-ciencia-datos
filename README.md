@@ -52,13 +52,13 @@ preprocesamiento-ciencia-datos/
 ### Pasos de Instalación
 
 1. **Clonar el repositorio**
-```bash
+bash
 git clone https://github.com/Hector-cc12/Preprocesamiento-ciencia-datos.git
 cd Preprocesamiento-ciencia-datos
-```
+
 
 2. **Crear entorno virtual (recomendado)**
-```bash
+bash
 # En Linux/Mac
 python -m venv venv
 source venv/bin/activate
@@ -66,12 +66,12 @@ source venv/bin/activate
 # En Windows
 python -m venv venv
 venv\Scripts\activate
-```
+
 
 3. **Instalar dependencias**
-```bash
+bash
 pip install -r requirements.txt
-```
+
 
 
 ##  Reportar Problemas
