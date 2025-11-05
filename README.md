@@ -106,6 +106,4 @@ Para preguntas o sugerencias, puedes:
 - Contactar al autor a través de GitHub
 
 
-## Autor
-[Héctor Morales]
 
