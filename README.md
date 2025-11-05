@@ -1,5 +1,8 @@
 # Preprocesamiento-ciencia-datos
 Proyecto de preprocesamiento de datos con Python: implementación de técnicas de limpieza, transformación y preparación de datasets para análisis y machine learning
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
 ## Objetivo
 Este proyecto tiene como objetivo implementar técnicas de preprocesamiento de datos utilizando Python, aplicando buenas prácticas de control de versiones con Git y GitHub.
@@ -39,7 +42,7 @@ preprocesamiento-ciencia-datos/
 ```
 
 ## Instalación
-``##  Instalación
+##  Instalación
 
 ### Requisitos Previos
 - Python 3.10 o superior
@@ -91,6 +94,9 @@ Si encuentras algún bug o tienes sugerencias, por favor abre un [issue](https:/
 - GitHub: [@Hector-cc12](https://github.com/Hector-cc12)
 - Repositorio: [preprocesamiento-ciencia-datos](https://github.com/Hector-cc12/Preprocesamiento-ciencia-datos)
 
+##  Licencia
+
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ##  Contacto
 
