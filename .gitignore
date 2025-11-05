@@ -206,9 +206,17 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# IDEs adicionales
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# IDEs
 .vscode/
 .idea/
+*.swp
+*.swo
 
 # Environment variables
 .env
@@ -216,3 +224,13 @@ __marimo__/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# Data files (opcional)
+*.csv
+*.xlsx
+data/raw/*
+!data/raw/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
