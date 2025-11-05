@@ -1,0 +1,43 @@
+# === Módulos Centrales de Ciencia de Datos y Preprocesamiento ===
+# pandas: Esencial para la manipulación y análisis de datos. 
+#         Se utiliza para cargar, limpiar y transformar los DataFrames.
+pandas==2.0.3
+
+# numpy: La base para la computación numérica en Python. 
+#        Fundamental para operaciones con arrays y matrices de alto rendimiento.
+numpy==1.24.3
+
+# scikit-learn: La librería estándar para Machine Learning. 
+#               Necesaria para escalado, codificación y otras transformaciones pre-modelado.
+scikit-learn==1.3.0
+
+# matplotlib: Librería principal para la creación de visualizaciones estáticas.
+#             Usada para gráficos básicos de exploración (histogramas, boxplots).
+matplotlib==3.7.2
+
+# seaborn: Basada en matplotlib, se especializa en visualizaciones estadísticas atractivas.
+#          Ideal para generar gráficos complejos y análisis bivariados.
+seaborn==0.12.2
+
+
+# === Utilidades, Reportes y Entorno de Desarrollo ===
+# jupyter: Permite crear y ejecutar notebooks interactivos (.ipynb), 
+#          ideales para el Análisis Exploratorio de Datos (EDA) y la documentación.
+jupyter==1.0.0 
+
+# tqdm: Proporciona barras de progreso inteligentes y rápidas. 
+#       Útil para monitorear el progreso de operaciones largas de preprocesamiento.
+tqdm==4.66.1
+
+# pandas-profiling: Herramienta clave para generar reportes automáticos y detallados
+#                   sobre la calidad y distribución del conjunto de datos.
+pandas-profiling==3.6.6
+
+
+# === Manejo Avanzado de Archivos y Formatos ===
+# openpyxl: Requerido por pandas para leer y escribir archivos de Excel en formato .xlsx.
+openpyxl==3.1.2
+
+# pyarrow: Proporciona un soporte eficiente para el manejo de formatos de datos binarios, 
+#          como Parquet o Feather, crucial para el rendimiento en grandes volúmenes de datos.
+pyarrow==14.0.0
