@@ -70,7 +70,7 @@ Se confirma la finalización exitosa del proyecto, con el código del pipeline f
 Se inició el proceso de revisión y calidad al crear los Pull Requests correspondientes:
 
 #### PR #2 – CI Inicial
-![alt text](image.png)
+images/image.png
 feat(ci): Implementación de GitHub Actions para CI y tests unitarios iniciales ]
 
 #### PR #3 – Tests Expandidos y Fusión Final
